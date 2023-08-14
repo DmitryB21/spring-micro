@@ -1,2 +1,3 @@
 rootProject.name = 'spring-mc-demo'
 
+includeBuild('eureka-server')
