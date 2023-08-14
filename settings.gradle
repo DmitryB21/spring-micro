@@ -1,3 +1,6 @@
 rootProject.name = 'spring-mc-demo'
 
 includeBuild('eureka-server')
+includeBuild('eureka-client')
+includeBuild('eureka-client2')
+includeBuild('api-gateway')
